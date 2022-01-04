@@ -1,0 +1,60 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-image: url(images/My\ project\ \(6\).png);
+    background-size:1598px 2048px;
+    background-repeat: no-repeat;
+    margin: 0;
+}
+h1{
+    font-size: 40px;
+}
+#welcome{
+    width: 640px;
+    padding-left: 3%;
+    padding-bottom: 10px;
+}
+#dream-big{
+    width: 400px;
+    margin-left: 764px;
+    padding-bottom: 10px;
+}
+.link{
+    margin-left: 5%;
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.box-shadow{
+    background-color: seashell;
+    border-left: 10px solid;
+    border-image: linear-gradient(blue,yellow);
+    border-image-slice: 1;
+    width: 512px;
+    box-shadow: 5px 5px 80px black;
+    margin: 5%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#stack-baby{
+    display: flex;
+    
+}
+#hudai{
+    height: 500px;
+    margin-top: 250px;
+    margin-left:75%;
+    font-size: 30px;
+    padding-top: 500px;
+    
+    color:darkcyan;
+}
+#dream-big a{
+    margin-left: 20%;
+}
+pre{
+    
+    font-family: fantasy;
+    font-weight: 400;
+}
