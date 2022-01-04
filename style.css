@@ -42,7 +42,9 @@ h1{
     
 }
 #hudai{
+    border: salmon;
     height: 500px;
+    width: 30%;
     margin-top: 250px;
     margin-left:75%;
     font-size: 30px;
